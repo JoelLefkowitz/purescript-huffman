@@ -1,4 +1,6 @@
 { name = "huffman"
+, license = "MIT"
+, repository = "https://github.com/JoelLefkowitz/purescript-huffman.git"
 , dependencies =
   [ "assert"
   , "console"
